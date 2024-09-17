@@ -1,0 +1,5 @@
+#environment=remote
+environment=local
+username=Admin
+password=admin123
+name=ja
