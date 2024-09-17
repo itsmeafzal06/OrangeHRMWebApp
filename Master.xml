@@ -10,9 +10,9 @@
 	<parameter name="OS" value="windows"/> 
 	<parameter name="browser" value="chrome"/>
     <classes>
-     <!-- <class name="testCases.TC001_LoginTest"/>-->
+     <class name="testCases.TC001_LoginTest"/>
      <!-- <class name="testCases.TC002_Admin_addUser"/>-->
-     <class name="testCases.TC003_loginTestDDT"/>
+    <!-- <class name="testCases.TC003_loginTestDDT"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
